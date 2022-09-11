@@ -4,7 +4,7 @@ Perform analysis, visualzation, and statistical skills by retrieving and analyzi
 
 ## Overview of Project
 
-Our task was to collect and analyze weather data aross cities worldwide. Afterwards, PlanMyTrip company will use the data to recommend ideal hotels based on clients' weather preferences. The method was completed by creating a *Pandas DataFrame* with 500 or more of the world's unique cities and their weather data in real time. This process entailed 1) **Collecting** (*from JSON file*), 2) **Analyzing** (*scatter plots/heat maps via Google Maps*, and 3) **Visualizng** (*pop-up markers of hotels*) the data.  Data from the JSON file included: *City, country, data*; *Latitude and longitude*; *Maximum temperature*; *Humidity*; *Cloudiness*; and *Wind speed*.
+Our task was to collect and analyze weather data aross cities worldwide. Afterwards, PlanMyTrip company will use the data to recommend ideal hotels based on clients' weather preferences. The method was completed by creating a *Pandas DataFrame* with 500 or more of the world's unique cities and their weather data in real time. This process entailed 1) **Collecting** (*from JSON file*), 2) **Analyzing** (*scatter plots/heat maps via Google Maps*, and 3) **Visualizing** (*pop-up markers of hotels*) the data.  Data from the JSON file included: *City, country, data*; *Latitude and longitude*; *Maximum temperature*; *Humidity*; *Cloudiness*; and *Wind speed*.
 
 ### Purpose and Background
 
