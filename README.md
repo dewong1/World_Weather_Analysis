@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-Perform analysis, visualzation, and statistical skills by retrieving and analyzing weather data for a hypotehtical travel company (PlanMyTrip)
+Perform analysis, visualization, and statistical skills by retrieving and analyzing weather data for a hypothetical travel company (PlanMyTrip)
 
 
 ## Overview of Project
